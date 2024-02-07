@@ -1,2 +1,2 @@
-<h1> HTML : Hypertext Transfer Protocol </h1>
+<h1 align="center"> HTML : Hypertext Transfer Protocol </h1>
   
